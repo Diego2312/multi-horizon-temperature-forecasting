@@ -5,7 +5,7 @@
 This project is a **methodological exploration** of multi-horizon time series forecasting for daily mean temperature.  
 Using 30 years of data from the **Rome Ciampino** meteorological station (NOAA GHCN-Daily), I investigate:
 
-- How forecast skill changes as prediction horizons increase (1, 3, 7, 14, 30 days ahead).
+- How forecast capability changes as prediction horizons increase (1, 3, 7, 14, 30 days ahead).
 - How feature importance shifts from recent lags to seasonal patterns for longer horizons.
 - The differences between **statistical baselines** and **machine learning models** in a multi-horizon setting.
 
