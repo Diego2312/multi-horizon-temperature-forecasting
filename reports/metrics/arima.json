@@ -1,0 +1,57 @@
+{
+  "1": {
+    "mean_mae": 2.00742924365786,
+    "mean_rmse": 2.3449793315055887,
+    "test_size": 30,
+    "order": [
+      10,
+      1,
+      25
+    ],
+    "seasonal_order": null
+  },
+  "3": {
+    "mean_mae": 2.6681513485639257,
+    "mean_rmse": 3.0220145854898974,
+    "test_size": 30,
+    "order": [
+      10,
+      1,
+      25
+    ],
+    "seasonal_order": null
+  },
+  "7": {
+    "mean_mae": 2.013454392071139,
+    "mean_rmse": 2.3770966050234064,
+    "test_size": 49,
+    "order": [
+      10,
+      1,
+      25
+    ],
+    "seasonal_order": null
+  },
+  "14": {
+    "mean_mae": 10.251817619282786,
+    "mean_rmse": 10.608670527713597,
+    "test_size": 98,
+    "order": [
+      10,
+      1,
+      25
+    ],
+    "seasonal_order": null
+  },
+  "30": {
+    "mean_mae": 7.259959359141023,
+    "mean_rmse": 8.757607906734236,
+    "test_size": 210,
+    "order": [
+      10,
+      1,
+      25
+    ],
+    "seasonal_order": null
+  }
+}
